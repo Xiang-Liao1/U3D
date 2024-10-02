@@ -1,0 +1,14 @@
+E:\document\lqb\U3Dtest\U3Dtest\bin\Debug\net8.0\U3Dtest.exe
+E:\document\lqb\U3Dtest\U3Dtest\bin\Debug\net8.0\U3Dtest.deps.json
+E:\document\lqb\U3Dtest\U3Dtest\bin\Debug\net8.0\U3Dtest.runtimeconfig.json
+E:\document\lqb\U3Dtest\U3Dtest\bin\Debug\net8.0\U3Dtest.dll
+E:\document\lqb\U3Dtest\U3Dtest\bin\Debug\net8.0\U3Dtest.pdb
+E:\document\lqb\U3Dtest\U3Dtest\obj\Debug\net8.0\U3Dtest.GeneratedMSBuildEditorConfig.editorconfig
+E:\document\lqb\U3Dtest\U3Dtest\obj\Debug\net8.0\U3Dtest.AssemblyInfoInputs.cache
+E:\document\lqb\U3Dtest\U3Dtest\obj\Debug\net8.0\U3Dtest.AssemblyInfo.cs
+E:\document\lqb\U3Dtest\U3Dtest\obj\Debug\net8.0\U3Dtest.csproj.CoreCompileInputs.cache
+E:\document\lqb\U3Dtest\U3Dtest\obj\Debug\net8.0\U3Dtest.dll
+E:\document\lqb\U3Dtest\U3Dtest\obj\Debug\net8.0\refint\U3Dtest.dll
+E:\document\lqb\U3Dtest\U3Dtest\obj\Debug\net8.0\U3Dtest.pdb
+E:\document\lqb\U3Dtest\U3Dtest\obj\Debug\net8.0\U3Dtest.genruntimeconfig.cache
+E:\document\lqb\U3Dtest\U3Dtest\obj\Debug\net8.0\ref\U3Dtest.dll
